@@ -1,4 +1,4 @@
-Here is your `README.md` file for the **ELB Health Checker using AWS Lambda** project:
+
 
 ---
 
@@ -119,7 +119,7 @@ Then wait \~2-3 minutes. Lambda will pick up the unhealthy instance on its next 
 
 **Vignesh Sadanki**
 💼 AWS | DevOps | Cloud Projects
-📧 \[Replace with your email]
+📧 sadanki190@gmail.com
 
 ---
 
